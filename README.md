@@ -1,5 +1,6 @@
 # GANpet
 A GAN to generate carpets, or recognize pets.
+Who knows?
 
 ## Some links to check out
 - [Keras implementations of GANs](https://github.com/eriklindernoren/Keras-GAN)
